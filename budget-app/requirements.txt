@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+plotly
+supabase
+flask
+matplotlib
